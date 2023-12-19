@@ -1,6 +1,6 @@
 # Portfolio Card
 
-Built using react from Udemy course by Jonas Schmedtmann
+Built using react from Udemy course by Jonas Schmedtmann. Files have been copied over and are not the complete project. It's a small project and hopefully easy to see what the code is doing.
 
 # Getting Started with Create React App
 
